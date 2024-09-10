@@ -1,0 +1,1 @@
+O PostgreSQL é um servidor relacional que guarda e gerencia informações de dados com a linguagem SQL. Podemos usa-lo para fazer armazenamento, manipulação e segurança de dados. Também serve para aplicações web e sistemas corporativos.
